@@ -25,3 +25,5 @@
 - junit version 4.12 is used to add all the corner cases for each class file that is added.
 
 To begin code execution, please run the main method in the class ParkingLotSystem. Input commands can be modified in ./src/main/input.txt
+
+![PL](https://user-images.githubusercontent.com/33488073/126890037-52a47874-d241-4c52-8e90-873fb480d05f.gif)
